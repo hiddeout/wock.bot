@@ -1,1 +1,2 @@
-# wock.bot
+# wock
+wock src
